@@ -1,0 +1,14 @@
+# Build
+/github-repo-analyzer
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# IDE
+.vscode/
+.idea/
+
+# Environment
+.env
